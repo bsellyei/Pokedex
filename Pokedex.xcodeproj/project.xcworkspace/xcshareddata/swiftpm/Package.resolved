@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "googletranslateswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/danielsaidi/GoogleTranslateSwift.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "f30cbbe269df0a61aa86596176f8f90125d9a708"
+      }
+    },
+    {
+      "identity" : "pokemonapi",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kinkofer/PokemonAPI",
+      "state" : {
+        "revision" : "dfb4cfbf5f91798a5c37b031b913e21a74a06289",
+        "version" : "6.1.1"
+      }
+    },
+    {
+      "identity" : "swiftkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/danielsaidi/SwiftKit.git",
+      "state" : {
+        "revision" : "3cd5182ee809194d0cc17b649daa2e6dca94871b",
+        "version" : "0.7.0"
+      }
+    },
+    {
+      "identity" : "swinject",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Swinject/Swinject.git",
+      "state" : {
+        "revision" : "11e65d83ba100459a41837119a8af32f182339f1",
+        "version" : "2.8.2"
+      }
+    }
+  ],
+  "version" : 2
+}
